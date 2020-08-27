@@ -18,6 +18,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <meta-data
+                android:name="co.zisky.ApiKey"
+                android:value="5f4753032d9e216affc4f1b9"/>
     </application>
 
 </manifest>
