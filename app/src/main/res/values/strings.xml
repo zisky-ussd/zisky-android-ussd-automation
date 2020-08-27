@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Zisky SDK</string>
+    <string name="check_balance">Balance Enquiry</string>
 </resources>
